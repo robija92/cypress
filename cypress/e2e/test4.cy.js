@@ -25,7 +25,7 @@ describe('Test Suite', function () {
 
             cy.url().should('include', 'qaclickacademy')
 
-            // cy.go('back')    
+            // cy.go('back')   
 
     })
 
